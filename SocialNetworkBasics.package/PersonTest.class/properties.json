@@ -1,0 +1,15 @@
+{
+	"category" : "SocialNetworkBasics-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"john",
+		"jane" ],
+	"name" : "PersonTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

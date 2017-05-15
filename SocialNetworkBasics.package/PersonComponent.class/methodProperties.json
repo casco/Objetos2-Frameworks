@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"on:for:" : "af 5/18/2014 16:47" },
+	"instance" : {
+		"on:for:" : "af 5/18/2014 16:48",
+		"renderContactInfoOn:" : "Casco 5/16/2016 21:46",
+		"renderContentOn:" : "Casco 5/16/2016 22:08",
+		"renderEveryoneElseListOn:" : "Casco 5/16/2016 21:46",
+		"renderFollowersListOn:" : "Casco 5/16/2016 21:47",
+		"renderFollowsListOn:" : "Casco 5/16/2016 21:46",
+		"renderPerson:on:" : "Casco 5/16/2016 21:46",
+		"renderPersonList:on:" : "Casco 5/16/2016 21:47",
+		"showDetailsOf:" : "af 5/18/2014 16:53",
+		"showHomeScreen" : "af 5/24/2014 23:21" } }

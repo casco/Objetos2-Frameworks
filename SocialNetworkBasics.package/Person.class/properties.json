@@ -1,0 +1,17 @@
+{
+	"category" : "SocialNetworkBasics-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Casco 5/14/2016 16:55",
+	"instvars" : [
+		"followers",
+		"follows",
+		"fullName",
+		"email" ],
+	"name" : "Person",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

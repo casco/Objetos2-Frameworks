@@ -1,0 +1,14 @@
+{
+	"category" : "SocialNetworkBasics-WebApplication",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "af 5/18/2014 16:35",
+	"instvars" : [
+		"socialNetwork" ],
+	"name" : "SocialNetworkComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
