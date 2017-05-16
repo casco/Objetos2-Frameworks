@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"backupFile" : "af 5/24/2014 23:12",
+		"backupSingleton" : "af 5/24/2014 23:17",
+		"loadRandomly:" : "Casco 6/16/2015 14:20",
+		"named:" : "af 5/18/2014 11:58",
+		"resetSingleton" : "af 5/24/2014 23:14",
+		"restoreSingleton" : "af 5/24/2014 23:17",
+		"singleton" : "af 5/24/2014 23:05" },
+	"instance" : {
+		"addUser:" : "Casco 4/16/2017 19:59",
+		"connections" : "af 6/8/2014 19:52",
+		"name" : "af 5/18/2014 11:54",
+		"name:" : "af 5/18/2014 11:53",
+		"users" : "af 5/18/2014 12:00" } }

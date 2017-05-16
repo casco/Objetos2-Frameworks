@@ -1,0 +1,14 @@
+{
+	"category" : "SocialNetworkWithUIPatterns-WebApplication",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Casco 5/15/2017 17:32",
+	"instvars" : [
+		"steps" ],
+	"name" : "BreadcrumsComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

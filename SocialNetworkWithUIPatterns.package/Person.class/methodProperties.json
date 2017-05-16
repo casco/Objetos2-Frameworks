@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fullName:email:" : "Casco 6/16/2015 14:20" },
+	"instance" : {
+		"addFollower:" : "Casco 4/16/2017 19:58",
+		"email" : "af 5/17/2014 23:58",
+		"email:" : "Casco 4/16/2017 19:58",
+		"follow:" : "Casco 4/16/2017 19:58",
+		"followers" : "af 5/17/2014 22:09",
+		"follows" : "af 5/17/2014 22:08",
+		"fullName" : "af 5/17/2014 23:54",
+		"fullName:" : "Casco 4/16/2017 19:58",
+		"initialize" : "Casco 6/16/2015 14:16",
+		"name" : "af 5/18/2014 12:13",
+		"numberOfFollowers" : "Casco 5/31/2015 23:44",
+		"printOn:" : "AF 5/24/2014 18:27",
+		"removeFollower:" : "Casco 4/16/2017 19:59",
+		"unfollow:" : "Casco 4/16/2017 19:59" } }

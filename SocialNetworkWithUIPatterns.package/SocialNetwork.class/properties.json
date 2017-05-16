@@ -1,0 +1,15 @@
+{
+	"category" : "SocialNetworkWithUIPatterns-Model",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Casco 5/15/2017 16:09",
+	"instvars" : [
+		"users",
+		"name" ],
+	"name" : "SocialNetwork",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

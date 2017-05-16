@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"initialize" : "Casco 5/15/2017 21:53" },
+	"instance" : {
+		"children" : "Casco 5/15/2017 21:37",
+		"edit:" : "af 5/18/2014 15:34",
+		"initialize" : "Casco 5/15/2017 21:40",
+		"newPersonDialog" : "Casco 5/16/2016 21:48",
+		"random" : "af 5/24/2014 23:00",
+		"renderContentOn:" : "Casco 5/15/2017 22:27",
+		"renderUpperToolbarOn:" : "Casco 5/15/2017 22:27",
+		"socialNetwork" : "af 5/24/2014 23:15" } }

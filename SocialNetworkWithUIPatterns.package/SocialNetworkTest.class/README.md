@@ -1,0 +1,1 @@
+A SocialNetworkTest is a test class for testing the behavior of SocialNetwork

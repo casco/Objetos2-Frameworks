@@ -1,0 +1,17 @@
+{
+	"category" : "SocialNetworkWithUIPatterns-WebApplication",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Casco 5/15/2017 21:53",
+	"instvars" : [
+		"socialNetwork",
+		"usersListComponent",
+		"breadcrumsComponent",
+		"personComponent" ],
+	"name" : "SocialNetworkComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

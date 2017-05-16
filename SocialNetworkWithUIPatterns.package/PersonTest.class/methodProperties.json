@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "Casco 6/16/2015 14:20",
+		"testAddFollower" : "af 5/17/2014 22:37",
+		"testFollow" : "af 5/17/2014 22:35",
+		"testRemoveFollower" : "Casco 5/14/2016 16:41",
+		"testUnfollow" : "Casco 5/14/2016 16:40" } }
