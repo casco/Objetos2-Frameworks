@@ -1,8 +1,8 @@
 {
 	"class" : {
-		"initialize" : "Casco 5/21/2017 11:34" },
+		"initialize" : "Casco 5/21/2017 15:53" },
 	"instance" : {
 		"children" : "Casco 5/21/2017 11:43",
 		"initialize" : "Casco 5/21/2017 11:42",
-		"renderContentOn:" : "Casco 5/21/2017 11:47",
-		"renderNavBarOn:" : "Casco 5/21/2017 12:15" } }
+		"renderContentOn:" : "Casco 5/21/2017 12:50",
+		"renderNavBarOn:" : "Casco 5/21/2017 12:50" } }

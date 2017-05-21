@@ -1,4 +1,4 @@
-A component to consistently show the personal details and change into edit mode (via de PesonDetailsEditorComponent) .
+A component to consistently edit  the personal details  
 
 Instance Variables
 	person:		<Person>

@@ -9,15 +9,15 @@ renderContentOn: htmlCanvas
 								tbsFormControl ].
 					htmlCanvas break.
 					htmlCanvas
-						tbsInputGroup: [ htmlCanvas tbsInputGroupAddOn: 'E-mail addres'.
-							htmlCanvas textInput
-								on: #email of: self;
-								tbsFormControl ].
-					htmlCanvas break.
-					htmlCanvas
 						tbsInputGroup: [ htmlCanvas tbsInputGroupAddOn: 'Status'.
 							htmlCanvas textInput
 								on: #status of: self;
+								tbsFormControl ].
+					htmlCanvas break.
+					htmlCanvas
+						tbsInputGroup: [ htmlCanvas tbsInputGroupAddOn: 'E-mail addres'.
+							htmlCanvas textInput
+								on: #email of: self;
 								tbsFormControl ].
 					htmlCanvas break.
 					htmlCanvas tbsSubmitButton

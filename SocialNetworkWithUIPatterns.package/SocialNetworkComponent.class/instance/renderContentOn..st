@@ -1,4 +1,5 @@
 rendering
 renderContentOn: htmlCanvas
-	self renderNavBarOn: htmlCanvas.
-	htmlCanvas render: usersListComponent
+	htmlCanvas tbsPanel beDefault
+		with: [ self renderNavBarOn: htmlCanvas.
+			htmlCanvas render: usersListComponent ]

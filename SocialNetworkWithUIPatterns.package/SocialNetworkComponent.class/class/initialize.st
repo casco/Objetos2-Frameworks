@@ -4,7 +4,7 @@ initialize
 	super initialize.
 	app := WAAdmin
 		register: self
-		asApplicationAt: 'SocialNetwork'.
+		asApplicationAt: 'SocialNetworkWithUIPatterns'.
 	app
 		addLibrary: JQDeploymentLibrary;
 		addLibrary: TBSDeploymentLibrary
