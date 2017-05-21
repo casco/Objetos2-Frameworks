@@ -1,3 +1,3 @@
 accessing
 person: anObject
-	person := anObject
+	person := anObject.

@@ -1,0 +1,16 @@
+{
+	"category" : "SocialNetworkWithUIPatterns-Deployment",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Casco 5/21/2017 08:41",
+	"instvars" : [
+		"seasidePort",
+		"bookmarkletPort",
+		"servicePort" ],
+	"name" : "Deployer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

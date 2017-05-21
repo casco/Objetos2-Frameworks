@@ -4,12 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "Casco 5/14/2016 16:55",
+	"commentStamp" : "Casco 5/20/2017 18:05",
 	"instvars" : [
-		"followers",
-		"follows",
 		"fullName",
-		"email" ],
+		"email",
+		"status",
+		"followers",
+		"follows" ],
 	"name" : "Person",
 	"pools" : [
 		 ],

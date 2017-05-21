@@ -1,0 +1,3 @@
+accessing
+fullName
+	^ person fullName

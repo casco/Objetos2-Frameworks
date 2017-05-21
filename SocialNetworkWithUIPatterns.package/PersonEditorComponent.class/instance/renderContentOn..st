@@ -1,16 +1,31 @@
 rendering
 renderContentOn: htmlCanvas
-	htmlCanvas
-		form: [ 
-			htmlCanvas text: 'Full name: '.
-			htmlCanvas textInput on: #name of: self.
-			htmlCanvas break.
-			htmlCanvas text: 'Email address: '.
-			htmlCanvas textInput on: #email of: self.
-			htmlCanvas break.
-			htmlCanvas submitButton
-				callback: [ self save ];
-				value: 'Save'.
-			htmlCanvas submitButton
-				callback: [ self cancel ];
-				value: 'Cancel' ]
+	htmlCanvas tbsPanel beDefault
+		with: [ htmlCanvas
+				tbsForm: [ htmlCanvas
+						tbsInputGroup: [ htmlCanvas tbsInputGroupAddOn: 'Full name'.
+							htmlCanvas textInput
+								on: #name of: self;
+								tbsFormControl ].
+					htmlCanvas break.
+					htmlCanvas
+						tbsInputGroup: [ htmlCanvas tbsInputGroupAddOn: 'E-mail addres'.
+							htmlCanvas textInput
+								on: #email of: self;
+								tbsFormControl ].
+					htmlCanvas break.
+					htmlCanvas
+						tbsInputGroup: [ htmlCanvas tbsInputGroupAddOn: 'Status'.
+							htmlCanvas textInput
+								on: #status of: self;
+								tbsFormControl ].
+					htmlCanvas break.
+					htmlCanvas tbsSubmitButton
+						callback: [ self save ];
+						beDefault;
+						value: 'Save'.
+					htmlCanvas space.
+					htmlCanvas tbsSubmitButton
+						callback: [ self cancel ];
+						beDefault;
+						value: 'Cancel' ] ]

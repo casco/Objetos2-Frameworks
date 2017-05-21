@@ -2,7 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"renderContentOn:" : "Casco 5/15/2017 22:36",
-		"renderUser:on:" : "Casco 5/15/2017 22:37",
-		"showDetailsOf:" : "Casco 5/15/2017 21:38",
-		"socialNetwork:personComponent:" : "Casco 5/15/2017 21:41" } }
+		"home" : "Casco 5/21/2017 12:18",
+		"initialize" : "Casco 5/21/2017 11:38",
+		"newPersonDialog" : "Casco 5/16/2016 21:48",
+		"random" : "af 5/24/2014 23:00",
+		"renderContentOn:" : "Casco 5/21/2017 10:34",
+		"renderUpperToolbarOn:" : "Casco 5/21/2017 10:58",
+		"renderUser:asRowOn:" : "Casco 5/21/2017 10:40",
+		"renderUsersListOn:" : "Casco 5/21/2017 10:39",
+		"showPerson:" : "Casco 5/21/2017 10:44",
+		"socialNetwork" : "af 5/24/2014 23:15",
+		"socialNetwork:" : "Casco 5/21/2017 11:38" } }

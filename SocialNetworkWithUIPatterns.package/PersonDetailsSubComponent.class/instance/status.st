@@ -1,0 +1,3 @@
+accessing
+status
+	^ person status

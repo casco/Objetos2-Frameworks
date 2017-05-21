@@ -1,5 +1,3 @@
 children
 children
-	^ {breadcrumsComponent.
-	usersListComponent.
-	personComponent}
+	^ {usersListComponent}

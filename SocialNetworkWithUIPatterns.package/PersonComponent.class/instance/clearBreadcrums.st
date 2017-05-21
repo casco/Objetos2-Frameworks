@@ -1,0 +1,3 @@
+accessing
+clearBreadcrums
+	breadCrumsComponent clear.

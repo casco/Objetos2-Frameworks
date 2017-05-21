@@ -1,3 +1,4 @@
-callbacks
+accessing
 focusOn: aPerson
-	breadcrumsComponent record: [ self person: aPerson ] with: aPerson fullName
+	self quietlyFocusOn: aPerson.
+	breadCrumsComponent record: [ self quietlyFocusOn: aPerson ] with: aPerson fullName

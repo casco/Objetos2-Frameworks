@@ -7,7 +7,7 @@
 	"commentStamp" : "Casco 5/15/2017 17:32",
 	"instvars" : [
 		"steps" ],
-	"name" : "BreadcrumsComponent",
+	"name" : "BreadcrumsSubComponent",
 	"pools" : [
 		 ],
 	"super" : "WAComponent",

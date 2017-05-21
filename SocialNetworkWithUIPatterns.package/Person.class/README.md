@@ -1,12 +1,13 @@
 A Person is someone in a social network such as twitter.
 Follow relationships are not bi-directional. 
-follows and followers relationships are kept consistent by the #follow:  messaje (the only mechanism to create relationships)
 
 Instance Variables
+	name:		<String>
 	email:		<String>
+         status: 		<string>
 	followers:		Set of <Person>
 	follows:		Set of <Person>
-	name:		<String>
+
 
 email
 	- obvious

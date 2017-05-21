@@ -1,4 +1,4 @@
-A PersonEditorComponent is the mechanism to edit contact information of users.
+A component to consistently show the personal details and change into edit mode (via de PesonDetailsEditorComponent) .
 
 Instance Variables
 	person:		<Person>

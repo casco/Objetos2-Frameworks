@@ -4,12 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "Casco 5/15/2017 21:53",
+	"commentStamp" : "Casco 5/21/2017 11:35",
 	"instvars" : [
 		"socialNetwork",
-		"usersListComponent",
-		"breadcrumsComponent",
-		"personComponent" ],
+		"usersListComponent" ],
 	"name" : "SocialNetworkComponent",
 	"pools" : [
 		 ],
