@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkClipboardNow" : "Casco 5/28/2017 21:47",
+		"consumeClipboardContent:" : "Casco 5/28/2017 21:51",
+		"delayBetweenChecks" : "Casco 5/28/2017 21:44",
+		"delayBetweenChecks:" : "Casco 5/28/2017 21:44",
+		"getClipboardContent" : "Casco 6/2/2017 09:21",
+		"initialize" : "Casco 5/28/2017 21:49",
+		"start" : "Casco 6/2/2017 09:34",
+		"stop" : "Casco 5/28/2017 21:50",
+		"wait" : "Casco 6/2/2017 09:22",
+		"wait:" : "Casco 5/28/2017 21:51" } }

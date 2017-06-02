@@ -1,0 +1,4 @@
+running
+stop
+	running := false.
+	

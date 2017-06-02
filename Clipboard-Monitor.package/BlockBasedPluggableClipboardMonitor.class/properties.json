@@ -1,0 +1,14 @@
+{
+	"category" : "Clipboard-Monitor-core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Casco 6/2/2017 09:33",
+	"instvars" : [
+		"block" ],
+	"name" : "BlockBasedPluggableClipboardMonitor",
+	"pools" : [
+		 ],
+	"super" : "ClipboardMonitor",
+	"type" : "normal" }

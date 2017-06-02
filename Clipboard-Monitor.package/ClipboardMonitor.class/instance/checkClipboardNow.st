@@ -1,0 +1,3 @@
+private
+checkClipboardNow
+	self consumeClipboardContent: self getClipboardContent
